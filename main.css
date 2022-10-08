@@ -10,6 +10,11 @@ body {
   width:100%;
   background:black;
 }
+.user {
+  color: red;
+  font-size: 30px;
+  float:left;
+}
 .navlink{
   text-decoration:none;
   color: red;
