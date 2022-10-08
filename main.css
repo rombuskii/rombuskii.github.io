@@ -11,9 +11,13 @@ body {
   background:black;
 }
 .user {
+  justify-content:flex-start;
+  position: fixed;
+  top:5px;
+  left:20px;
+  width:100%;
   color: red;
   font-size: 30px;
-  float:left;
 }
 .navlink{
   text-decoration:none;
