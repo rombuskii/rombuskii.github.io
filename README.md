@@ -1,1 +1,0 @@
-# ekedayen-e.github.io
